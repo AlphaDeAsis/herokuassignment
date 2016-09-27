@@ -1,0 +1,48 @@
+.name {
+
+	
+
+}
+
+.mainNav {
+
+	float: left;
+	background-color: gray;
+	position: center;
+	
+
+}
+
+li { 
+
+	float: right;
+	border: 1px; 
+	border-color: gray;
+	border-width: 30px;
+	padding: 5px;
+	margin: 5px;
+	overflow: auto;
+	text-align: center;	
+ 
+}
+
+.aboutMe {
+
+	
+	
+	
+}
+
+.connect {
+
+	
+
+}
+
+
+
+
+
+
+
+
